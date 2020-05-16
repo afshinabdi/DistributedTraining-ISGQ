@@ -19,5 +19,5 @@ title: {{ site.name }}
 ## IV. How to Cite?
 For a reference to this work, please cite the following paper:
 
-* [**Conference Paper:**] A. Abdi and F. Fekri, ``Indirect Stochastic Gradient Quantization and its Application in Distributed Deep Learning,'' in *34th AAAI Conference on Artificial Intelligence*, 2020
+* [**Conference Paper:**] A. Abdi and F. Fekri, "Indirect Stochastic Gradient Quantization and its Application in Distributed Deep Learning," in *34th AAAI Conference on Artificial Intelligence*, 2020
 
