@@ -1,0 +1,9 @@
+title: Indirect Stochastic Gradient Quantization
+tagline: [Gradient Compression for Distributed Deep Learning]
+baseurl: "/DistributedTraining-ISGQ"
+markdown: kramdown
+
+# About/contact
+author:
+  name:       Afshin Abdi
+  url:        https://afshinabdi.github.io
